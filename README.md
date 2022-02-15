@@ -11,6 +11,8 @@ basic Xcode and gcc
     + Hyper-V based Linux Kernel
     - [NomadCoder Windows Setup](https://nomadcoders.co/windows-setup-for-developers)
 
+<img src="https://ww.namu.la/s/3beaa0f22bd71f50ba181666981f59a38a81c00cd059b38a5160d8ba58b59797cc7b1f213dd51bea5985247741b8b0eed208758d4a5ece1b944c2ef8e9555260bb833622e326bffdd960825e45ef79f337fdddd67e0767cc063fd668f165fb9b" width="450px" height="300px" title="wsl2" alt="wsl2 architecture"></img><br/>
+
 * dev set with wsl1(old)
     + linux command converter
     - [pdf](https://github.com/DataStructure2022/DevSet_git/blob/main/src/%EC%9C%88%EB%8F%84%EC%9A%B0%20vscode%20%EC%BD%94%EB%94%A9%20%EC%84%B8%ED%8C%85.pdf)
