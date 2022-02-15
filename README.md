@@ -11,7 +11,7 @@ basic Xcode and gcc
     + Hyper-V based Linux Kernel
     - [NomadCoder Windows Setup](https://nomadcoders.co/windows-setup-for-developers)
 
-<img src="https://ww.namu.la/s/3beaa0f22bd71f50ba181666981f59a38a81c00cd059b38a5160d8ba58b59797cc7b1f213dd51bea5985247741b8b0eed208758d4a5ece1b944c2ef8e9555260bb833622e326bffdd960825e45ef79f337fdddd67e0767cc063fd668f165fb9b" width="40%" height="40%" title="wsl2" alt="wsl2 architecture"></img><br/>
+<img src="https://ww.namu.la/s/3beaa0f22bd71f50ba181666981f59a38a81c00cd059b38a5160d8ba58b59797cc7b1f213dd51bea5985247741b8b0eed208758d4a5ece1b944c2ef8e9555260bb833622e326bffdd960825e45ef79f337fdddd67e0767cc063fd668f165fb9b" width="50%" height="50%" title="wsl2" alt="wsl2 architecture"></img><br/>
 
 * dev set with wsl1(old)
     + linux command converter
@@ -23,6 +23,8 @@ basic Xcode and gcc
     - [MultiBoot setting](https://www.youtube.com/watch?v=DF_TiZrwPAA&ab_channel=PoommelierPrograming)
 
 ## Git
+* what is git and github?
+    - [NomadCoder Youtube](https://www.youtube.com/watch?v=YFNQwo7iTNc&ab_channel=%EB%85%B8%EB%A7%88%EB%93%9C%EC%BD%94%EB%8D%94NomadCoders)
 * Git Command 
     - [git command](https://medium.com/@joongwon/git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-c25b421ecdbd)
 * Markdown 
