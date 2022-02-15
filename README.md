@@ -8,11 +8,11 @@ basic Xcode and gcc
 
 ### Windows
 * dev set with wsl2 
-    Hyper-V based Linux Kernel
+Hyper-V based Linux Kernel
     - [NomadCoder Windows Setup](https://nomadcoders.co/windows-setup-for-developers)
 
 * dev set with wsl1(old) 
-    linux command converter
+linux command converter
     - [pdf](https://github.com/DataStructure2022/DevSet_git/blob/main/src/%EC%9C%88%EB%8F%84%EC%9A%B0%20vscode%20%EC%BD%94%EB%94%A9%20%EC%84%B8%ED%8C%85.pdf)
     - [wsl1 dev set](https://www.youtube.com/watch?v=hC2Mqxidyvc&ab_channel=PoommelierPrograming)
 
