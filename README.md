@@ -1,6 +1,8 @@
 # DevSet_git
 dev set and how to use git
 
+[Youtube](https://www.youtube.com/watch?v=lCu-RVgXff4&ab_channel=PoommelierPrograming)
+
 ## DevSet
 
 ### Mac
